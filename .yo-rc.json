@@ -38,6 +38,9 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en", "de"],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "afternoon-falls-71420",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
